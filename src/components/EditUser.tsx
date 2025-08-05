@@ -43,10 +43,10 @@ const EditUser = () => {
   const form = useForm<z.infer<typeof formSchema>>({
     resolver: zodResolver(formSchema),
     defaultValues: {
-      username: "john.doe",
-      email: "john.doe@gmail.com",
-      phone: "+1 234 5678",
-      location: "New York, NY",
+      username: "Eralan Elang",
+      email: "ersa.kusuma.ek@gmail.com",
+      phone: "+62 838-0830-5740",
+      location: "Cilegon, ID",
       role: "admin",
     },
   });

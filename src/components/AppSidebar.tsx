@@ -4,8 +4,8 @@ import {
   Calendar,
   Search,
   Settings,
-  User2,
-  ChevronUp,
+  // User2,
+  // ChevronUp,
   Plus,
   Projector,
   ChevronDown,
@@ -30,13 +30,13 @@ import {
   SidebarSeparator,
 } from "./ui/sidebar";
 import Link from "next/link";
-import Image from "next/image";
-import {
-  DropdownMenu,
-  DropdownMenuContent,
-  DropdownMenuItem,
-  DropdownMenuTrigger,
-} from "./ui/dropdown-menu";
+// import Image from "next/image";
+// import {
+//   DropdownMenu,
+//   DropdownMenuContent,
+//   DropdownMenuItem,
+//   DropdownMenuTrigger,
+// } from "./ui/dropdown-menu";
 import {
   Collapsible,
   CollapsibleContent,
